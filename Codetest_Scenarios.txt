@@ -1,0 +1,11 @@
+Scenarios:
+
+1.      Server response code is 429 – Too many requests case
+
+2.      Status code: 200, but response data is empty
+
+3.      Some of the fields missing in the response
+
+4.      Other error codes
+
+5.      Status code: 200 and response is appropriate
